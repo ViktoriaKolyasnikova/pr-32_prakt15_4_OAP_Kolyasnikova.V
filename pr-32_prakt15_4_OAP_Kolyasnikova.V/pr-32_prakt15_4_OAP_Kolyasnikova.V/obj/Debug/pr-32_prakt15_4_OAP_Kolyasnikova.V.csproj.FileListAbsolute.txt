@@ -1,0 +1,7 @@
+F:\OAP\P.R_15\pr-32_prakt15_4_OAP_Kolyasnikova.V\pr-32_prakt15_4_OAP_Kolyasnikova.V\bin\Debug\pr-32_prakt15_4_OAP_Kolyasnikova.V.exe.config
+F:\OAP\P.R_15\pr-32_prakt15_4_OAP_Kolyasnikova.V\pr-32_prakt15_4_OAP_Kolyasnikova.V\bin\Debug\pr-32_prakt15_4_OAP_Kolyasnikova.V.exe
+F:\OAP\P.R_15\pr-32_prakt15_4_OAP_Kolyasnikova.V\pr-32_prakt15_4_OAP_Kolyasnikova.V\bin\Debug\pr-32_prakt15_4_OAP_Kolyasnikova.V.pdb
+F:\OAP\P.R_15\pr-32_prakt15_4_OAP_Kolyasnikova.V\pr-32_prakt15_4_OAP_Kolyasnikova.V\obj\Debug\pr-32_prakt15_4_OAP_Kolyasnikova.V.csproj.AssemblyReference.cache
+F:\OAP\P.R_15\pr-32_prakt15_4_OAP_Kolyasnikova.V\pr-32_prakt15_4_OAP_Kolyasnikova.V\obj\Debug\pr-32_prakt15_4_OAP_Kolyasnikova.V.csproj.CoreCompileInputs.cache
+F:\OAP\P.R_15\pr-32_prakt15_4_OAP_Kolyasnikova.V\pr-32_prakt15_4_OAP_Kolyasnikova.V\obj\Debug\pr-32_prakt15_4_OAP_Kolyasnikova.V.exe
+F:\OAP\P.R_15\pr-32_prakt15_4_OAP_Kolyasnikova.V\pr-32_prakt15_4_OAP_Kolyasnikova.V\obj\Debug\pr-32_prakt15_4_OAP_Kolyasnikova.V.pdb
